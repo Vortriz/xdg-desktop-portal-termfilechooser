@@ -4,7 +4,7 @@
 # For more information about input/output arguments read `xdg-desktop-portal-termfilechooser(5)`
 
 set -ex
-PATH="/usr/bin:/bin"
+# PATH="/usr/bin:/bin"
 
 multiple="$1"
 directory="$2"
